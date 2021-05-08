@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Flutter
 - 🤔 I’m looking for help with more Flutter tools
 - 💬 Ask me about C,C++
-- 📫 How to reach me: You can reach me through [LinkedIN](https://www.linkedin.com/in/ayushmaan-singh-rajput-451669141/)
-- 😄 Pronouns: 
+- 📫 How to reach me: You can reach me through [LinkedIN](https://www.linkedin.com/in/ayushmaan-singh-rajput-451669141/),[Twitter](https://twitter.com/ayushmaan_2823)
+- 😄 Pronouns: Ayushmaan
 - ⚡ Fun fact: I am a classical Tabla player 
 
