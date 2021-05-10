@@ -10,7 +10,12 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Flutter
 - 🤔 I’m looking for help with more Flutter tools
 - 💬 Ask me about C,C++
-- 📫 How to reach me: You can reach me through [LinkedIN](https://www.linkedin.com/in/ayushmaan-singh-rajput-451669141/),[Twitter](https://twitter.com/ayushmaan_2823)
+- 📫 How to reach me: You can reach me through <a href="https://twitter.com/ayushmaan_2823" target="_blank">
+  <img align="left" alt="Ayushmaan Singh Rajput | Twitter" width="21px" src="https://www.flaticon.com/svg/vstatic/svg/179/179342.svg?token=exp=1620667218~hmac=81eca7a61678390ba0296fb6698a9c01" />
+</a>
+<a href="https://www.linkedin.com/in/ayushmaanrajput/" target="_blank">
+  <img align="left" alt="Ayushmaan Singh Rajput | Linkedin" width="21px" src="https://image.flaticon.com/icons/svg/2111/2111499.svg"/>
+</a>
 - 😄 Pronouns: Ayushmaan
 - ⚡ Fun fact: I am a Tabla player 
 
