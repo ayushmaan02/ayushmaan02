@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Flutter
 - 🤔 I’m looking for help with more Flutter tools
 - 💬 Ask me about C,C++
-- 😄 Pronouns: Ayushmaan
+- 😄 Pronouns: Mississippi
 - ⚡ Fun fact: I am a Tabla player 
 - 📫 How to reach me: You can reach me through 
 
