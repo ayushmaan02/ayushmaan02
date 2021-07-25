@@ -18,5 +18,5 @@ Here are some ideas to get you started:
     <a href="https://www.linkedin.com/in/ayushmaanrajput/" target="_blank">
       <img align="center"  height="50" width="50" src="https://img.icons8.com/color/48/000000/linkedin.png"/>
     </a>
-    <a href="https://twitter.com/ayushmaan_2823"><img align="center" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg"  height="50" width="50" />
+    <a href="https://twitter.com/ayushmaan_2823"><img align="center" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg"  height="30" width="50" />
     </a>
