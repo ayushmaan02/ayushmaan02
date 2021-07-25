@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 
     <a href="https://www.linkedin.com/in/ayushmaanrajput/" target="_blank">
-      <img align="left" alt="Ayushmaan Singh Rajput | Linkedin" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>
+      <img align="center"  height="60" width="50" src="https://img.icons8.com/color/48/000000/linkedin.png"/>
     </a>
     <a href="https://twitter.com/ayushmaan_2823"><img align="center" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg"  height="60" width="50" />
     </a>
