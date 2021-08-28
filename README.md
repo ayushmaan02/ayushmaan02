@@ -6,7 +6,7 @@
 Here are some ideas to get you started: 
 -->
 
-- 🔭 I’m currently working on my DSA on C++ ,Flutter and Dart
+- 🔭 I’m currently working on my DSA on C++ ,Flutter,Bootstrap, javascript
 - 🌱 I’m currently learning Flutter
 - 🤔 I’m looking for help with more Flutter tools
 - 💬 Ask me about C,C++
