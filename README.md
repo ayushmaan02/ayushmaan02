@@ -18,6 +18,9 @@
   <a href="https://www.linkedin.com/in/ayushmaanrajput">
     <img src="https://img.shields.io/badge/Ayushmaan-Rajput-386938188?style=flat&logo=linkedin">
   </a> &nbsp; 
+  <a href="https://twitter.com/ayushmaan_2823">
+    <img src="https://img.shields.io/badge/Ayushmaan-Rajput-386938188?style=flat&logo=twitter">
+  </a> &nbsp; 
 </p>
 
 **Languages and Tools:**  
