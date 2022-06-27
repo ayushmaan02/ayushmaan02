@@ -1,5 +1,5 @@
 # Ayushmaan Singh Rajput     <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="80px">
-### Hey !!  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px"> 
+### Hey !!  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="10px"> 
 
 **ABOUT ME** 
 
