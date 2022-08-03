@@ -5,7 +5,7 @@
 
 
 - 💬 Ask me about anything and everything !! 
-- 👨🏻‍💻 View my **Website** here => In Progress
+- 👨🏻‍💻 Quick Connect w/ me --> bio.link/ayushmaanrajput
 - 📫 **Reach** me here => ayushmaan.edu06@gmail.com
 <!-- - 📝 **My Resume** => [Resume]() -->
 
