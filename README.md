@@ -33,7 +33,7 @@
 
 
 
-![Ayushmaan's github stats](https://github-readme-stats.vercel.app/api?username=ayushmaan02&show_icons=true&hide_border=True)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayushmaan02&show_icons=true&theme=radical)]
 <br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ayushmaan02&hide_border=true&theme=radical)
 ![](https://activity-graph.herokuapp.com/graph?username=ayushmaan02&theme=redical)
