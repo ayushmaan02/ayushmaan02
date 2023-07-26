@@ -31,7 +31,7 @@
 <code><img height="20" src="https://www.kindpng.com/picc/m/694-6948383_developing-ethereum-smart-contracts-for-beginners-ethereum-and.png"></code>
 
 
-ayushmaan-github-stats.vercel.app
+
 
 ![Ayushmaan's GitHub stats](https://ayushmaan-github-stats.vercel.app/api?username=ayushmaan02&show_icons=true&theme=radical&hide_border=true)
 <br/>
