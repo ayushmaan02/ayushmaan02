@@ -31,9 +31,9 @@
 <code><img height="20" src="https://www.kindpng.com/picc/m/694-6948383_developing-ethereum-smart-contracts-for-beginners-ethereum-and.png"></code>
 
 
+ayushmaan-github-stats.vercel.app
 
-
-![Ayushmaan's GitHub stats](https://ayushmaan-grs.vercel.app/api?username=ayushmaan02&show_icons=true&theme=radical&hide_border=true)
+![Ayushmaan's GitHub stats](https://ayushmaan-github-stats.vercel.app/api?username=ayushmaan02&show_icons=true&theme=radical&hide_border=true)
 <br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ayushmaan02&hide_border=true&theme=radical)
 ![](https://activity-graph.herokuapp.com/graph?username=ayushmaan02&theme=redical)
